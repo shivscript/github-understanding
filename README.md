@@ -1,1 +1,1 @@
-# github-understanding
+# This is for learning purpose for Himalaya College of Engineering
